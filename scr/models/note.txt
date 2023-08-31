@@ -1,0 +1,2 @@
+put model initial dependence here (for deep learning model)
+ignore if use jit or other compress type
