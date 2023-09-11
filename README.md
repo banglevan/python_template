@@ -3,6 +3,10 @@
 ```
 root
 ├── config
+├── api # add external api here, might be include middleware
+├── apps
+│   ├──config #for worker
+│   ├──worker
 ├── data
 │   ├──<put all of test data here>
 ├── src
